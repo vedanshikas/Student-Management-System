@@ -1,0 +1,53 @@
+[2026-09-17 19:39:15] [INFO   ] StudentRepository initialised – loaded 5 students.
+[2026-09-17 19:39:15] [INFO   ] MarksRepository initialised – loaded 5 marks records.
+[2026-09-17 19:39:15] [INFO   ] Saved 6 students to file.
+[2026-09-17 19:39:15] [INFO   ] Student added: STU999 - Unit Test Student
+[2026-09-17 19:39:15] [INFO   ] Student searched: STU999
+[2026-09-17 19:39:15] [INFO   ] Saved 6 students to file.
+[2026-09-17 19:39:15] [INFO   ] Student updated: STU999
+[2026-09-17 19:39:15] [INFO   ] Student searched: STU999
+[2026-09-17 19:39:15] [INFO   ] Saved marks for 6 students to file.
+[2026-09-17 19:39:15] [INFO   ] Marks added for student: STU999
+[2026-09-17 19:39:15] [INFO   ] Saved 5 students to file.
+[2026-09-17 19:39:15] [INFO   ] Student deleted: STU999
+[2026-09-17 19:39:15] [INFO   ] Saved marks for 5 students to file.
+[2026-09-17 19:39:15] [INFO   ] Marks deleted for student: STU999
+[2026-09-17 19:39:15] [INFO   ] StudentRepository initialised – loaded 5 students.
+[2026-09-17 19:39:15] [INFO   ] MarksRepository initialised – loaded 5 marks records.
+[2026-09-17 19:40:29] [INFO   ] StudentRepository initialised – loaded 5 students.
+[2026-09-17 19:40:29] [INFO   ] MarksRepository initialised – loaded 5 marks records.
+[2026-09-17 19:40:29] [INFO   ] Application started successfully.
+[2026-09-17 19:40:29] [INFO   ] Class report generated.
+[2026-09-17 19:40:29] [INFO   ] Top performer displayed: STU004
+[2026-09-17 19:40:29] [INFO   ] Class average report displayed.
+[2026-09-17 19:40:29] [INFO   ] Pass/Fail statistics displayed.
+[2026-09-17 19:40:29] [INFO   ] Application closed cleanly.
+[2026-09-17 19:40:59] [INFO   ] StudentRepository initialised – loaded 5 students.
+[2026-09-17 19:40:59] [INFO   ] MarksRepository initialised – loaded 5 marks records.
+[2026-09-17 19:40:59] [INFO   ] Saved 6 students to file.
+[2026-09-17 19:40:59] [INFO   ] Student added: STU999 - Unit Test Student
+[2026-09-17 19:40:59] [INFO   ] Student searched: STU999
+[2026-09-17 19:40:59] [INFO   ] Saved 6 students to file.
+[2026-09-17 19:40:59] [INFO   ] Student updated: STU999
+[2026-09-17 19:40:59] [INFO   ] Student searched: STU999
+[2026-09-17 19:40:59] [INFO   ] Saved marks for 6 students to file.
+[2026-09-17 19:40:59] [INFO   ] Marks added for student: STU999
+[2026-09-17 19:40:59] [INFO   ] Saved 5 students to file.
+[2026-09-17 19:40:59] [INFO   ] Student deleted: STU999
+[2026-09-17 19:40:59] [INFO   ] Saved marks for 5 students to file.
+[2026-09-17 19:40:59] [INFO   ] Marks deleted for student: STU999
+[2026-09-17 19:40:59] [INFO   ] StudentRepository initialised – loaded 5 students.
+[2026-09-17 19:40:59] [INFO   ] MarksRepository initialised – loaded 5 marks records.
+[2026-09-17 19:41:06] [INFO   ] StudentRepository initialised – loaded 5 students.
+[2026-09-17 19:41:06] [INFO   ] MarksRepository initialised – loaded 5 marks records.
+[2026-09-17 19:41:06] [INFO   ] Application started successfully.
+[2026-09-17 19:41:06] [INFO   ] Class report generated.
+[2026-09-17 19:41:06] [INFO   ] Top performer displayed: STU004
+[2026-09-17 19:41:06] [INFO   ] Class average report displayed.
+[2026-09-17 19:41:06] [INFO   ] Pass/Fail statistics displayed.
+[2026-09-17 19:41:06] [INFO   ] Application closed cleanly.
+[2026-09-17 19:42:37] [INFO   ] StudentRepository initialised – loaded 5 students.
+[2026-09-17 19:42:37] [INFO   ] MarksRepository initialised – loaded 5 marks records.
+[2026-09-17 19:42:37] [INFO   ] Application started successfully.
+[2026-09-17 19:43:30] [INFO   ] Saved 6 students to file.
+[2026-09-17 19:43:30] [INFO   ] Student added with auto-ID: STU006 - Bobby
